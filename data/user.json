@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Patrick Su",
+        "address": "桃園市楊梅區新農街100號",
+        "phone_number": "03-475-1111"
+    },
+
+    {
+        "name": "Nick Fan",
+        "address": "桃園市中壢區環北路300號",
+        "phone_number": "03-422-3333"
+    },
+
+    {
+        "name": "Ethan Wang",
+        "address": "新北市淡水區學府路200號",
+        "phone_number": "02-8912-3456"
+    }
+]
