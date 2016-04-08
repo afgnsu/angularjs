@@ -12,7 +12,7 @@ sudo add-apt-repository ppa:gias-kay-lee/npm
 sudo apt-get update
 sudo apt-get install npm
 ```
-4. npm install http-server -g
+4. sudo npm install http-server -g
 5. http-server
 6. 瀏覽器開啟 http://localhost:8080 即可
 
